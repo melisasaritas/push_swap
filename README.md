@@ -28,3 +28,6 @@ Sorting Algorithm:
 It is used LIS algorithm and the complexity is O(n log n). For more info:
     
     https://en.wikipedia.org/wiki/Longest_increasing_subsequence
+
+
+To try it, clone the repository. Run the command "make" in a terminal and give the integers you want to sort. The program will output the necessary operations for sorting the integers. It will work in Linux-based operating systems and MacOS.
